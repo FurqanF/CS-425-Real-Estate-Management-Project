@@ -1,4 +1,3 @@
-
 -- Real Estate Management System
 -- Authors: Furqan Farooqui, Abriel Simmons
 
